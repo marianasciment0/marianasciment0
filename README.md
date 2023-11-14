@@ -9,7 +9,7 @@
 <div> 
 <div align = "center" >
  <a href="https://github.com/marianasciment0">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=marianasciment0&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=marianasciment0&theme=midnight-purple&show_icons=true"/>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=marianasciment0&layout=compact&langs_count=7&theme=midnight-purple"/> 
 
   <div style="display: inline_block"><br>
