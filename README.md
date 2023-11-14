@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+a+Maria:%29)](https://git.io/typing-svg)
 
-### Sobre mim: 
+### ✨ Sobre mim: 
 
  👩‍💻 Sou desenvolvedora <br>💻 Graduanda em Ciência da Computação <br>📚 No momento estou aprendendo sobre Chatbots Inteligentes 
 
@@ -21,14 +21,11 @@
     <img align = "center" alt = "Python" height = "30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
      <img align = "center" alt = "C" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
    <img align = "center" alt = "git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg ">
-
-
-   ![Snake animation](https://github.com/marianasciment0/marianasciment0/blob/output/github-contribution-grid-snake.svg)
    </div>
    
   ##
   
-   <div> 
+ <div> 
   <a href = "mailto:marianascimentomn14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="www.linkedin.com/in/maria-nascimento-aa514a1a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
