@@ -1,6 +1,11 @@
-### Olá, eu sou a Maria ! 👩‍💻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+a+Maria:%29)](https://git.io/typing-svg)
 
-##
+### Sobre mim: 
+
+ 👩‍💻 Sou desenvolvedora <br>💻 Graduanda em Ciência da Computação <br>📫 No momento estou aprendendo sobre Chatbots Inteligentes 
+
+---
+
 <div>
 <div align = "center" >
   <a href="https://github.com/lmarianasciment0">
