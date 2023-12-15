@@ -2,7 +2,7 @@
 
 ### ✨ Sobre mim: 
 
- 👩‍💻 Sou desenvolvedora <br>💻 Graduanda em Ciência da Computação <br>📚 No momento estou aprendendo sobre Chatbots Inteligentes 
+ 👩‍💻 Sou desenvolvedora <br>💻 Graduanda em Ciência da Computação <br> 💬 Estagiária em especialista em Chatbots na Weni <br>📚 No momento estou aprendendo sobre APIs
 
 ---
 
