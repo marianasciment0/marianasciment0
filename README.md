@@ -2,7 +2,7 @@
 
 ### ✨ Sobre mim: 
 
- 👩‍💻 Sou desenvolvedora <br>💻 Graduanda em Ciência da Computação <br> 💬 Pesquisadora na área de Agentes Inteligentes <br>
+ 💻 Graduanda em Ciência da Computação <br> 💬 Pesquisadora na área de Agentes Inteligentes <br>
 
 ---
 
